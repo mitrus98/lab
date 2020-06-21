@@ -1,0 +1,4 @@
+Aby zainstalować program należy wydać komendy:
+git clone https://
+cd kalkulator_figur
+make
