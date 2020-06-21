@@ -1,4 +1,5 @@
 Aby zainstalować program należy wydać komendy:
-git clone https://
-cd kalkulator_figur
+git clone https://github.com/mitrus98/lab
+cd lab
 make
+./kalkulator_geometryczny
